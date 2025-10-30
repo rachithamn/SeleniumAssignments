@@ -1,8 +1,16 @@
 package week3.day2;
 
-public class TextField {
-	// getText() method.
-	void getText() {
+public class WebElements {
+	/**
+	 *  click() and setText(String text).
+	 * @param args
+	 */
+	void click() {
+		System.out.println("Clicking on a generic web element...");
+	
+	}
+	void setText(String text) {
+		  System.out.println("Setting text: " + text);
 		
 	}
 

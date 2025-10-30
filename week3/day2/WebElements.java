@@ -6,9 +6,11 @@ public class WebElements {
 	 * @param args
 	 */
 	void click() {
+		System.out.println("Clicking on a generic web element...");
 	
 	}
 	void setText(String text) {
+		  System.out.println("Setting text: " + text);
 		
 	}
 

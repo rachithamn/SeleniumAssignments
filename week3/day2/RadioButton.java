@@ -6,8 +6,8 @@ public class RadioButton extends Button {
 - In the RadioButton class, add a method called selectRadioButton().
 	 */
 	void selectRadioButton() {
-		
-	}
+        System.out.println("Radio button selected!");
+    }
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
